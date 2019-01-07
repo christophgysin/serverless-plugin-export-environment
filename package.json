@@ -1,0 +1,11 @@
+{
+  "name": "serverless-plugin-export-environment",
+  "version": "1.0.0",
+  "description": "Export environment variables for serverless functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christoph Gysin <christoph.gysin@gmail.com>",
+  "license": "ISC"
+}
